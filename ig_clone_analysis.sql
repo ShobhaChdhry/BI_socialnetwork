@@ -1,6 +1,8 @@
 use ig_clone;
 
+
 ---users with their no.of photos
+
 select 
 u.username, count(*) nos_photos
 from
