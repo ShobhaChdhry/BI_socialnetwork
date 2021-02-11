@@ -5,7 +5,7 @@ select
 u.username, count(*) nos_photos
 from
 photos p 
-join users u on u.id=p.user_id
+join users u on u.id=p.user_id 
 group by u.username
 order by count(*) desc
 ;
