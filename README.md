@@ -25,4 +25,4 @@ Extremely easy to use
 Wide use around the world
 
 
-So click on the files and see my dashboards!
+So click on the files and see my dashboard!
